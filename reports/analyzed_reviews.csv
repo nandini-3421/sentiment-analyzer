@@ -1,0 +1,7 @@
+ID,Review,Polarity,Sentiment
+1,Very good product,0.9099999999999999,Positive
+2,"Bad experience, waste of money",-0.44999999999999996,Negative
+3,"Not, Bad",0.3499999999999999,Positive
+4,Excellent purchase! Gonna suggest others also.,1.0,Positive
+5,"The product quality is disgusting, thinking to return it.",-1.0,Negative
+6,Quality is slightly low but okay as per the price,0.25,Positive

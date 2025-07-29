@@ -1,0 +1,10 @@
+﻿order_date,product_name,category  ,region,sales_amount ,profit,quality
+10-01-2024,Laptop,electronics,south,"15,000",3000,
+15-02-2024,Mobile,electronics,west,8000,500,
+28-02-2024,Headphones,electronics,east,2400,200,
+18-04-2024,Earphones,electronics,north,1500,100,
+25-07-2024,Smarttv,electronics,east,10000,1000,
+03-08-2024,Washing.m,electronics,west,7000,850,
+04-12-2024,vaccum.c,electronics,north,12000,1500,
+07-01-2025,smartwatch,electronics,south,3000,200,
+13-02-2025,keyboard,electronics,west,1200,100,
