@@ -1,20 +1,20 @@
-# 📊 Product Review Sentiment Analyzer
+# Product Review Sentiment Analyzer
 
 A web-based application that analyzes customer review sentiments from uploaded CSV files. Built using **Flask**, **NLTK**, **Pandas**, and **Chart.js**, this project demonstrates the power of **AI in business** by automating customer feedback analysis.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔍 Analyzes product reviews using sentiment analysis (Positive, Negative, Neutral)
-- 📁 Upload CSV files containing customer reviews
-- 📉 Visualizes sentiment distribution using an interactive pie chart
-- 📥 Download the analyzed results as a CSV
-- 📐 Clean, responsive UI using Bootstrap 5
+-  Analyzes product reviews using sentiment analysis (Positive, Negative, Neutral)
+-  Upload CSV files containing customer reviews
+-  Visualizes sentiment distribution using an interactive pie chart
+-  Download the analyzed results as a CSV
+-  Clean, responsive UI using Bootstrap 5
 
 ---
 
-## 🧠 Use Case
+##  Use Case
 
 This project simulates how businesses can leverage AI to:
 - Automate customer feedback classification
@@ -23,7 +23,7 @@ This project simulates how businesses can leverage AI to:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 - **Frontend**: HTML, Bootstrap, Chart.js (for pie chart)
 - **Backend**: Python, Flask
@@ -32,7 +32,7 @@ This project simulates how businesses can leverage AI to:
 
 ---
 
-## 📁 CSV Format
+##  CSV Format
 
 Upload a CSV file with a column named: ID and Reviews
 
@@ -47,7 +47,7 @@ Example:
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ![Upload Page](screenshots/upload.png)
 ![Chart](screenshots/piechart.png)
@@ -55,7 +55,7 @@ Example:
 
 ---
 
-## 🧪 How It Works
+##  How It Works
 
 1. **Upload CSV**: User selects a `.csv` file containing product reviews.
 2. **Sentiment Analysis**: Each review is analyzed using VADER sentiment scoring.
@@ -66,12 +66,5 @@ Example:
 
 ---
 
-## 📦 Installation & Run
-
-### 1. Clone the Repo
-
-```bash
-git clone https://github.com/yourusername/sentiment-analyzer.git
-cd sentiment-analyzer
 
 
